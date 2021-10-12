@@ -1,2 +1,2 @@
 # PigGoBeg
-这是一个README
+这是一个README.md
